@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_breakfast"
+        android:title="Breakfast" />
+    <!-- Represents the morning meal option -->
+    <item
+        android:id="@+id/menu_morning_snack"
+        android:title="Mid Morning Snack" />
+    <!-- Represents a snack option between breakfast and lunch -->
+    <item
+        android:id="@+id/menu_lunch"
+        android:title="Lunch" />
+    <!-- Represents the midday meal option -->
+    <item
+        android:id="@+id/menu_lunch_snack"
+        android:title="Lunch Snack" />
+    <!-- Represents a snack option between lunch and dinner -->
+    <item
+        android:id="@+id/menu_dinner"
+        android:title="Dinner" />
+    <!-- Represents the evening meal option -->
+    <item
+        android:id="@+id/menu_dinner_snack"
+        android:title="Dinner Snack" />
+    <!-- Represents a snack option after dinner -->
+
+</menu>

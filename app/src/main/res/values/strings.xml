@@ -1,0 +1,17 @@
+<resources>
+    <menu xmlns:android="http://schemas.android.com/apk/res/android" name="TODO">
+        <item android:id="@+id/menu_breakfast" android:title="Breakfast" />
+        <item android:id="@+id/mid_morning_snack" android:title="Mid Morning Snack" />
+        <item android:id="@+id/menu_lunch" android:title="Lunch" />
+        <item android:id="@+id/menu_dinner" android:title="Dinner" />
+
+    </menu>
+    <string name="app_name">Meal_ideas</string>
+    <string name="meal_ideas">MEAL IDEAS</string>
+    <string name="exit">EXIT</string>
+    <string name="time_of_day">Time of day</string>
+    <string name="welcome_message">Welcome to meal idea please select time of day and we will suggest your meal</string>
+    <string name="generate_meal">Generate Meal</string>
+    <string name="select_meal_time">Select Meal Time</string>
+</resources>
+
