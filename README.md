@@ -16,10 +16,8 @@
 --------------------------------------------------
 ## Project Overview
 
-- Allows the user to select a meal type from a dropdown menu.
-- Displays the selected meal type.
-- Navigates to a new activity to display a meal suggestion based on the selected type.
-- Provides options to clear the selection or exit the app.
+The Meal Ideas App is an Android application designed to provide users with quick meal suggestions based on selected meal types (breakfast, lunch, dinner, snacks). Users choose a meal type from a dropdown, navigate to a suggestion screen, and can clear selections or exit. The app uses a simple UI, view binding, and passes data between activities. It aims to solve the common problem of deciding what to eat with an easy-to-use interface and relevant suggestions, serving as a foundation for future enhancements like expanded databases and user customization.
+
 
 ------------------------------------------------------
 
@@ -71,6 +69,21 @@ Dinner Snack
 - Functionality: The app focuses on providing a straightforward solution for users seeking quick meal ideas, with clear actions for selecting a meal type, viewing a suggestion, clearing the selection, and exiting the app.
 
 -----------------------------------------------------
+## GitHub and GitHub Actions
+
+This project was managed using **GitHub** for version control, where all code changes were committed and pushed regularly. GitHub enabled collaborative coding, allowing me to keep track of changes and maintain project integrity.
+
+### GitHub Actions:
+I utilized **GitHub Actions** to automate the build and deployment process. This includes:
+
+- Running automated workflow to ensure the app’s functionality.
+- Compiling the app into **APK** and **AAB** files, which are the formats required for distribution.
+ ![Screenshot 2025-04-02 110054](https://github.com/user-attachments/assets/cc7e88f7-0afb-41e7-9849-d83966ce2756)
+
+
+
+
+-------------------------------------------------------
 
 ### App Screenshots:
 ![Screenshot 2025-04-02 095659](https://github.com/user-attachments/assets/c643cd46-7838-496c-9c8d-34953c3e5aef)
