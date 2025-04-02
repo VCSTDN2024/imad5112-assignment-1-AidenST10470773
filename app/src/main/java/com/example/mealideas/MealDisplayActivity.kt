@@ -1,3 +1,8 @@
+/* meal options textview https://youtu.be/r1P7slDbtd4?si=Aug31Pkjnuot5FoH
+* displayed meal textview https://youtu.be/jXSNobmB7u4?si=h_z71dLzeU71sp43
+* back button https://youtu.be/jXSNobmB7u4?si=h_z71dLzeU71sp43
+* how to retrieve intent from main screen https://youtu.be/jXSNobmB7u4?si=h_z71dLzeU71sp43
+ */
 package com.example.mealideas
 
 import android.content.Intent

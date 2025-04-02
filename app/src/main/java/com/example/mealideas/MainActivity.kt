@@ -1,9 +1,14 @@
-/*
-*
-*
-*
-*
-* */
+/* what is view binding https://youtu.be/By1jrbOTUF8?si=DYjyXR0HhLKul1oz
+*how to make a dropdown menu but was changed from autocomplete textview to button https://youtu.be/jXSNobmB7u4?si=h_z71dLzeU71sp43
+*how to make a set onClick lister for buttons https://youtu.be/r1P7slDbtd4?si=Aug31Pkjnuot5FoH
+* map of function https://youtu.be/ff8uuCHtiZ8?si=PsQsebSipIRngwy6
+*  intent function and how to do it https://youtu.be/2hIY1xuImuQ?si=sGshTue5myL4w3mT
+* if and when statements for dropdown menu https://youtu.be/jXSNobmB7u4?si=h_z71dLzeU71sp43 , https://youtu.be/cKgZx5W01zM?si=IWF4_9fruALt8O8S
+* toast display https://youtu.be/sOpS0mMN-sg?si=1TT52Fv10jJGWv5G
+* clear button https://youtu.be/gHDSkiUksh8?si=1zrsuzunM1gB9tZ9
+* exit button https://youtu.be/ceSj2b73C9g?si=w2z9CWeU1SfOFVDc
+* showPopupMenu function https://youtu.be/jXSNobmB7u4?si=h_z71dLzeU71sp43
+ */
 package com.example.mealideas
 
 import android.content.Intent

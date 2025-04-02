@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- code attribution
-
-
-
-
-
-
-
+<!-- custom too bar  = https://rommansabbir. medium. com/ android- custom- toolbar- 235405b073b5
+addition of custom background images= https://stackoverflow. com/ questions/ 61336372/ change- source- image- for- all- backgrounds- when- imageview- is- pressed
+what i used to solve issues regarding my constrains layout = https://stackoverflow. com/ questions/ 56836626/ constraintlayout- is- not- responsive
+reference for the image used for background = https://wallpaperbat.com/img/426642-hd-wallpaper-beans-and-fruits-background-food-tasty-olives.jpg
+additional information used for layout retrieved from  in class lessons with kingcade
 -->
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
