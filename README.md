@@ -141,7 +141,7 @@ While the current version of the Meal Ideas App provides the core functionality,
 
 - Meal Details and Recipes: Provide more detailed information about each meal suggestion, including a list of ingredients, step-by-step cooking instructions, nutritional information, and potentially even images or videos. This would transform the app from a suggestion tool into a more complete meal planning resource.
 
--User Accounts and Synchronization: Introduce user accounts to allow users to save their favorite meal suggestions, custom meal ideas, and preferences. Synchronizing this data across devices would enhance the user experience and make the app more convenient for users who use multiple devices.
+- User Accounts and Synchronization: Introduce user accounts to allow users to save their favorite meal suggestions, custom meal ideas, and preferences. Synchronizing this data across devices would enhance the user experience and make the app more convenient for users who use multiple devices.
 
 - Shopping List Integration: Add a feature that automatically generates a shopping list based on the ingredients required for a selected meal. This could be further enhanced by integrating with existing shopping list apps or online grocery services.
 
