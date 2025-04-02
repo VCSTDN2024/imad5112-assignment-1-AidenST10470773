@@ -137,17 +137,8 @@ While the current version of the Meal Ideas App provides the core functionality,
 
 ## References
 
-1. meal options textview https://youtu.be/r1P7slDbtd4?si=Aug31Pkjnuot5FoH
-2. displayed meal textview https://youtu.be/jXSNobmB7u4?si=h_z71dLzeU71sp43
 3. back button https://youtu.be/jXSNobmB7u4?si=h_z71dLzeU71sp43
 4. how to retrieve intent from main screen https://youtu.be/jXSNobmB7u4?si=h_z71dLzeU71sp43
-5. custom too bar  = https://rommansabbir. medium. com/ android- custom- toolbar- 235405b073b5
-6.  addition of custom background images= https://stackoverflow. com/ questions/ 61336372/ change- source- image- for- 
-7. all- backgrounds- when- imageview- is- pressed
-8. what i used to solve issues regarding my constrains layout = https://stackoverflow. com/ questions/ 56836626/
-
-9. constraintlayout- is- not- responsive
-reference for the image used for background = https://wallpaperbat.com/img/426642-hd-wallpaper-beans-and-fruits-background-food-tasty-olives.jpg
 10. additional information used for layout retrieved from  in class lessons with kingcade
 11. what is view binding https://youtu.be/By1jrbOTUF8?si=DYjyXR0HhLKul1oz
 12. how to make a dropdown menu but was changed from autocomplete textview to button https://youtu.be/jXSNobmB7u4?si=h_z71dLzeU71sp43
