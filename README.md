@@ -11,7 +11,7 @@
 
 ## Links
 - **GitHub Repository**: [https://github.com/VCSTDN2024/imad5112-assignment-1-AidenST10470773]
-- **YouTube Video**: [YouTube Video Link]
+- **YouTube Video**: [https://youtu.be/nFEiArW6hw4?si=CggJivTINoB6fNgJ]
 
 --------------------------------------------------
 ## Project Overview
