@@ -76,6 +76,9 @@ Dinner Snack
 ![Screenshot 2025-04-02 095659](https://github.com/user-attachments/assets/c643cd46-7838-496c-9c8d-34953c3e5aef)
 ( home screen which user selects meal type or type to retrieve their result )
 
+![Screenshot 2025-04-02 100157](https://github.com/user-attachments/assets/c05c800b-45ab-4cb7-91bc-c09a343285ae)
+(screen at which meal suggestion is suggested to the user)
+
 
 ### Video Demo:
 A video showcasing the app's functionality can be viewed here: [YouTube Video Link].
