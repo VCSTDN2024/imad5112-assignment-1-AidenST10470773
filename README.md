@@ -10,7 +10,7 @@
 
 
 ## Links
-- **GitHub Repository**: [Repository URL]
+- **GitHub Repository**: [https://github.com/VCSTDN2024/imad5112-assignment-1-AidenST10470773]
 - **YouTube Video**: [YouTube Video Link]
 
 --------------------------------------------------
