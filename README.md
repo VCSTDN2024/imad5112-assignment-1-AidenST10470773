@@ -94,7 +94,7 @@ I utilized **GitHub Actions** to automate the build and deployment process. This
 
 
 ### Video Demo:
-A video showcasing the app's functionality can be viewed here: [YouTube Video Link].
+A video showcasing the app's functionality can be viewed here: [https://youtu.be/X4soIOlu2yE?si=J1MxeLppWmZDKHuW].
 
 -----------------------------------------------
 
