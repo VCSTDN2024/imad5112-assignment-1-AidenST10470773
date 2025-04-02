@@ -33,8 +33,7 @@ The Meal Ideas App aims to simplify the process of deciding what to eat by provi
 
 - Meal Type Selection:
 
-- Description: Users can easily specify the type of meal they need an idea for by selecting from a dropdown menu.
-- 
+- Description: Users can easily specify the type of meal they need an idea for by selecting from a dropdown menu. 
 - Functionality: The app presents a clear and concise list of meal types, including:
 Breakfast
 Morning Snack
@@ -72,6 +71,16 @@ Dinner Snack
 - Functionality: The app focuses on providing a straightforward solution for users seeking quick meal ideas, with clear actions for selecting a meal type, viewing a suggestion, clearing the selection, and exiting the app.
 
 -----------------------------------------------------
+
+### App Screenshots:
+![Screenshot 2025-04-02 095659](https://github.com/user-attachments/assets/c643cd46-7838-496c-9c8d-34953c3e5aef)
+( home screen which user selects meal type or type to retrieve their result )
+
+
+### Video Demo:
+A video showcasing the app's functionality can be viewed here: [YouTube Video Link].
+
+-----------------------------------------------
 
 ## Challenges and Learnings
 
