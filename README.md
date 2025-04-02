@@ -140,17 +140,15 @@ While the current version of the Meal Ideas App provides the core functionality,
 
 ## References
 
-3. back button https://youtu.be/jXSNobmB7u4?si=h_z71dLzeU71sp43
-4. how to retrieve intent from main screen https://youtu.be/jXSNobmB7u4?si=h_z71dLzeU71sp43
-10. additional information used for layout retrieved from  in class lessons with kingcade
-11. what is view binding https://youtu.be/By1jrbOTUF8?si=DYjyXR0HhLKul1oz
-12. how to make a dropdown menu but was changed from autocomplete textview to button https://youtu.be/jXSNobmB7u4?si=h_z71dLzeU71sp43
-13. how to make a set onClick lister for buttons https://youtu.be/r1P7slDbtd4?si=Aug31Pkjnuot5FoH
-14. map of function https://youtu.be/ff8uuCHtiZ8?si=PsQsebSipIRngwy6
-15.  intent function and how to do it https://youtu.be/2hIY1xuImuQ?si=sGshTue5myL4w3mT
-16. if and when statements for dropdown menu https://youtu.be/jXSNobmB7u4?si=h_z71dLzeU71sp43 , https://youtu.be/cKgZx5W01zM?si=IWF4_9fruALt8O8S
-17. toast display https://youtu.be/sOpS0mMN-sg?si=1TT52Fv10jJGWv5G
-18. clear button https://youtu.be/gHDSkiUksh8?si=1zrsuzunM1gB9tZ9
-19. exit button https://youtu.be/ceSj2b73C9g?si=w2z9CWeU1SfOFVDc
-20. showPopupMenu function https://youtu.be/jXSNobmB7u4?si=h_z71dLzeU71sp43
+1. back button https://youtu.be/jXSNobmB7u4?si=h_z71dLzeU71sp43
+2. how to retrieve intent from main screen https://youtu.be/jXSNobmB7u4?si=h_z71dLzeU71sp43
+3. additional information used for layout retrieved from  in class lessons with kingcade
+4. what is view binding https://youtu.be/By1jrbOTUF8?si=DYjyXR0HhLKul1oz
+5. how to make a dropdown menu but was changed from autocomplete textview to button https://youtu.be/jXSNobmB7u4?si=h_z71dLzeU71sp43
+6. how to make a set onClick lister for buttons https://youtu.be/r1P7slDbtd4?si=Aug31Pkjnuot5FoH
+7. map of function https://youtu.be/ff8uuCHtiZ8?si=PsQsebSipIRngwy6
+8.  intent function and how to do it https://youtu.be/2hIY1xuImuQ?si=sGshTue5myL4w3mT
+9. if and when statements for dropdown menu https://youtu.be/jXSNobmB7u4?si=h_z71dLzeU71sp43 , https://youtu.be/cKgZx5W01zM?si=IWF4_9fruALt8O8S
+10. toast display https://youtu.be/sOpS0mMN-sg?si=1TT52Fv10jJGWv5G
+11. showPopupMenu function https://youtu.be/jXSNobmB7u4?si=h_z71dLzeU71sp43
 
